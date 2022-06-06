@@ -1,0 +1,34 @@
+.col {
+  border: 1px solid black;
+  background-color: gray;
+  text-align: center;
+  font-size: 2rem;
+  cursor: pointer;
+}
+.col:active {
+  box-shadow: 1px 1px 5px 5px white;
+}
+.container-lg {
+  width: 30rem;
+  border: 1px solid black;
+  border-bottom: none;
+  padding-top: 1rem;
+  background-color: rgb(0, 208, 255);
+  margin-top: 10%;
+}
+input {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  text-align: right;
+  background-color: black;
+  color: white;
+}
+.bg-orange {
+  background-color: orange;
+}
+.bg-green {
+  background-color: green;
+}
+.bg-red {
+  background-color: red;
+}
